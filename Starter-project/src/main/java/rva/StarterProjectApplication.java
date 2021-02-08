@@ -3,7 +3,7 @@ package rva;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-// GitHub Classroom Invite Link --> https://classroom.github.com/classrooms/78555320-razvoj-viseslojnih-aplikacija-2020-2021-iis-classroom
+// GitHub Classroom Invite Link --> https://classroom.github.com/classrooms/78555320-rva-iis-2020-2021
 
 @SpringBootApplication
 public class StarterProjectApplication {
